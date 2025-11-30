@@ -11,10 +11,9 @@ A beautiful, responsive **Todo App** built entirely with **Vanilla JavaScript** 
 
 ## 📸 Screenshots
 
-> _(Optional — add real images later)_
 
 <p align="center">
-  <img src="assets/screenshot-1.png" width="75%" />
+  <img src="/todo-ss.png" width="75%" />
 </p>
 
 ---
